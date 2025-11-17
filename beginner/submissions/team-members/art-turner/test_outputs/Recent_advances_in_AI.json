@@ -1,0 +1,40 @@
+{
+  "topic": "Recent advances in AI",
+  "tldr": "Recent advances in AI, particularly in 2024, have been marked by significant progress in large language models and the development of new architectures and training techniques in machine learning.",
+  "key_findings": [
+    {
+      "finding": "2024 has seen significant progress in the development and sophistication of large language models.",
+      "citations": [
+        "https://example.com/ai-2024"
+      ]
+    },
+    {
+      "finding": "Machine learning has evolved with new architectures and innovative training techniques, enhancing AI's capabilities.",
+      "citations": [
+        "https://example.com/ml-trends"
+      ]
+    }
+  ],
+  "conflicts_and_caveats": "The sources do not provide detailed comparisons between the effectiveness of new training techniques versus traditional methods, nor do they address potential limitations or ethical concerns associated with these advancements.",
+  "top_sources": [
+    {
+      "title": "AI Advances in 2024",
+      "url": "https://example.com/ai-2024",
+      "snippet": "Significant progress in large language models...",
+      "score": 0.98,
+      "why_matters": "This source is highly relevant as it provides specific insights into the advancements made in large language models in 2024, a key area of AI development."
+    },
+    {
+      "title": "Machine Learning Trends",
+      "url": "https://example.com/ml-trends",
+      "snippet": "New architectures and training techniques...",
+      "score": 0.95,
+      "why_matters": "It highlights the evolution of machine learning through new architectures and training techniques, indicating a broad impact on AI's capabilities."
+    }
+  ],
+  "metadata": {
+    "timestamp": "2025-11-14T14:17:39.348883",
+    "model": "gpt-4-turbo-preview",
+    "num_sources_analyzed": 2
+  }
+}
